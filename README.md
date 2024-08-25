@@ -13,6 +13,11 @@ This repository contains the `expense_tracker.cpp` file, which is a simple C++ p
    ```bash
    g++ -o expense_tracker expense_tracker.cpp
 ./expense_tracker.exe
+Run the application
+./expense_tracker
 
+Future Enhancements
+Adding a graphical user interface (GUI).
+Integrating online banking APIs.
 
 
